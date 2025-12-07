@@ -1,5 +1,6 @@
-## Hi there 👋
+# About Me
 
+I'm currently a student in NUS, studying CS and trying to survive. 🫠
 <!--
 **lingsongc/lingsongc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
